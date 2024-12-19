@@ -1,0 +1,79 @@
+[
+    {
+        "kanji": "円",
+        "kunyomi": {
+            "まる": {
+                "meaning": "round ②curved ③harmonious, circle ②entirety ③money ④suffix for ship names",
+                "percentage": 0.2
+            }
+        },
+        "onyomi": {
+            "エン": {
+                "meaning": "yen (Japanese monetary unit) ②circle",
+                "percentage": 99.8
+            }
+        },
+        "nanori": {}
+    },
+    {
+        "kanji": "下",
+        "kunyomi": {
+            "した": {
+                "meaning": "below ②inferiority ③trade-in ④preliminary",
+                "percentage": 29.5
+            },
+            "くだ": {
+                "meaning": "to descend ②to be handed down (of an order, judgment, etc.) ③to pass (of time) ④to surrender, down-train ②down-slope ③downbound (esp. away from Tokyo) ④downstream, to make a decision ②to give a judgment ③to do in one go, to give ②to kindly do for one",
+                "percentage": 8.9
+            },
+            "さ": {
+                "meaning": "to hang ②to lower ③to demote ④to clear (plates), to come down ②to hang ③below",
+                "percentage": 8.0
+            },
+            "しも": {
+                "meaning": "lower reaches (of a river) ②bottom ③dirty (e.g. dirty jokes, etc.)",
+                "percentage": 4.6
+            },
+            "お": {
+                "meaning": "to take down ②to drop off (a passenger) ③to withdraw (money) ④to use for the first time, to descend (e.g. a mountain) ②to alight (e.g. from bus) ③to step down ④to be granted",
+                "percentage": 3.8
+            },
+            "もと": {
+                "meaning": "under (guidance, supervision, rules, the law, etc.) ②under (a flag, the sun, etc.) ③with (e.g. one blow) ④(someone's) side",
+                "percentage": 0.1
+            }
+        },
+        "onyomi": {
+            "カ": {
+                "meaning": "under (influence, control, conditions, etc. of)",
+                "percentage": 41.7
+            },
+            "ゲ": {
+                "meaning": "lowness (of degree, value, etc.) ②second volume (of two)",
+                "percentage": 3.5
+            }
+        },
+        "nanori": {}
+    },
+    {
+        "kanji": "安",
+        "kunyomi": {
+            "やす": {
+                "meaning": "cheap ②calm, to be rested, cheap ②rash, peaceful",
+                "percentage": 16.1
+            }
+        },
+        "onyomi": {
+            "アン": {
+                "meaning": "",
+                "percentage": 82.7
+            }
+        },
+        "nanori": {
+            "あ": {
+                "meaning": "",
+                "percentage": 1.1
+            }
+        }
+    }
+]
